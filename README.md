@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=9932CC&center=true&vCenter=true&width=1000&height=70&duration=3000&pause=1000&lines=Halo+👋,+I'm+Pai!;I'am+a+script+developer!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=9932CC&center=true&vCenter=true&width=1000&height=70&duration=3000&pause=1000&lines=illumi+😋;DEMONICA+😈;" />
    
 <h3 align="center">A Nonroot C and C++ script developer, who is highly enthusiastic about Linux technology. </h3>
 
