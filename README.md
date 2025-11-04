@@ -27,13 +27,13 @@
 <hr/>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=DEMONNICA&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=DEMONNICA&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DEMONNICA&count_private=true&theme=github_dark&border_radius=10" alt="streak stats"/>
+  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DEMONNICA&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
   <br/><br/>
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DEMONNICA&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DEMONNICA&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2E52&height=120&section=footer&animation=twinkling&reversal=true" width="100%"/>
 </p>
