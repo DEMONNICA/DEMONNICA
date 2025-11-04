@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DEMONNICA&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="600" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DEMONNICA&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.3&count_weight=0.3&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <hr/>
