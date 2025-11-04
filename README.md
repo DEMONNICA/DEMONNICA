@@ -1,7 +1,6 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=DEMONNICA&color=FF2E52&style=flat-square" alt="Profile Views" />
-  <img src="demonica.png" alt="Demonica" height="20" />
-</div>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1100&height=60&lines=LUCIFER;DEMONICA;&color=FF2E52&background=00000000">
@@ -13,6 +12,10 @@
 
 <p align="center">
   <img src="/illumi.jpg" alt="git text" />
+</p>
+
+<p align="center">
+  <img src="demonica.png" alt="Demonica" height="100" />
 </p>
 
 <p align="center">
