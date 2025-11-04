@@ -18,10 +18,6 @@
   <img src="demonica.png" alt="Demonica" height="100" />
 </p>
 
-<p align="center">
-  <sub>Hi, I'm Illumi from the Dark Continent. I create Magisk modules and plugins for both root and non-root users, usually as a quiet hobby when time allows.</sub>
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEMONNICA/DEMONNICA/output/github-contribution-grid-snake-dark.svg">
