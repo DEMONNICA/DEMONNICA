@@ -14,7 +14,7 @@
   <img src="/illumi.jpg" alt="git text" />
 </p>
 
-<p align="center">
+<p align="left">
   <sub><i>Hi, I'm Illumi from the Dark Continent. I create Magisk modules and plugins for both root and non-root users, usually as a quiet hobby when time allows.</i></sub>
 </p>
 
