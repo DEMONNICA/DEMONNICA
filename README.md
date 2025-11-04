@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=DEMONNICA&color=FF2E52&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -31,19 +31,9 @@
 <hr/>
 
 <p align="center">
-  <a href="https://ko-fi.com/illumi666">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
-  </a>
-  <a href="https://www.paypal.com/paypalme/faniadittiya">
-    <img src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />
-  </a>
-  <a href="https://trakteer.id/demonica/tip">
-    <img src="https://img.shields.io/badge/-Trakteer-red?style=for-the-badge&logo=trakteer&logoColor=white" alt="Trakteer" />
-  </a>
-  <a href="https://saweria.co/DEMONICA">
-    <img src="https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logo=saweria&logoColor=white" alt="Saweria" />
-  </a>
-  <a href="https://t.me/modulkuntul">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <a href="https://saweria.co/DEMONICA"><img src="https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logo=saweria&logoColor=white" alt="Saweria"></a>
+  <a href="https://trakteer.id/demonica/tip"><img src="https://img.shields.io/badge/-Trakteer-red?style=for-the-badge&logo=trakteer&logoColor=white" alt="Trakteer"></a>
+  <a href="https://www.paypal.com/paypalme/faniadittiya"><img src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal"></a>
+  <a href="https://ko-fi.com/illumi666"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
+  <a href="https://t.me/modulkuntul"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
