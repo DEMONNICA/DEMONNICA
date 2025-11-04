@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="demonica.png" alt="Demonica" height="100" />
+  <sub>Hi, I'm Illumi from the Dark Continent. I create Magisk modules and plugins for both root and non-root users, usually as a quiet hobby when time allows.</sub>
 </p>
 
 <div align="center">
