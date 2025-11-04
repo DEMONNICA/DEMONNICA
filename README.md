@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <sub><i>Hey, my name is illumi from DARK CONTINENT, when I feel bored or bored, I often do activities such as making Magisk Modules and Plugins, for root and non-root users.</i></sub>
+  <sub><i>Hi, I'm Illumi from the Dark Continent. I create Magisk modules and plugins for both root and non-root users, usually as a quiet hobby when time allows.</i></sub>
 </p>
 
 <div align="center">
