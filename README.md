@@ -14,8 +14,8 @@
   <img src="/illumi.jpg" alt="git text" />
 </p>
 
-<div align="center">
-  <img width="600" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DEMONNICA&hide=HTML&langs_count=10&layout=compact&theme=github_dark&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages" />
+<div align="center" style="transform: scale(0.85); transform-origin: top;">
+  <img width="600" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DEMONNICA&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <div align="center">
