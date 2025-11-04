@@ -36,4 +36,5 @@
   <a href="https://www.paypal.com/paypalme/faniadittiya"><img src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal"></a>
   <a href="https://ko-fi.com/illumi666"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
   <a href="https://t.me/modulkuntul"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.youtube.com/@iseng_iseng_aja_sih"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
