@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=LUCIFER;DEMONICA;&color=FF2E52&background=00000000">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=LUCIFER;DEMONICA;&color=FF2E52&background=00000000">
 </p>
 
 <p align="center">
-  <small><i>Lucifer fell not because it was dark, but because it was too bright for a world that feared true light.</i></small>
+  <sub><i>Lucifer fell not because it was dark,<br/>but because it was too bright for a world that feared true light.</i></sub>
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <small><i>Born from the light they refused to face.<br/>
-  I walk in the shadows not to hide, but to remind them what true fire feels like.</i></small>
+  <sub><i>Born from the light they refused to face.<br/>
+  I walk in the shadows not to hide, but to remind them what true fire feels like.</i></sub>
 </p>
 
 <hr/>
